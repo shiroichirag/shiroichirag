@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **chiragrawat7838@gmail.com**
+- 📫 How to reach me `**chiragrawat7838@gmail.com**`
 
 - 📄 Know about my experiences by my resume [https://drive.google.com/drive/u/0/folders/1n0M1SDkspAwT_tje8eb-mbem_6_u2xxh](https://drive.google.com/drive/u/0/folders/1n0M1SDkspAwT_tje8eb-mbem_6_u2xxh)
 
