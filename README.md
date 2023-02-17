@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag rawat</h1>
-<h3 align="center">Java Back-end Developer with a good knowledge of Back-end development and Problem-Solving skills. Also, have great knowledge in Java, javaScript and Databases like MySQL, Looking forward to becoming a Back-end developer, alongside learning and growing with the Organization.</h3>
+<h3 align="center">Java Back-end Developer with a good knowledge of Back-end development and problem-solving skills. Has expertise in java, JavaScript, and databases like MySQL. Looking forward to joining an organization where he can exhibit his skills and help the organization to grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiroichirag&label=Profile%20views&color=0e75b6&style=flat" alt="shiroichirag" /> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/android-developer-500731239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/android-developer-500731239/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/android-developer-500731239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/android-developer-500731239/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
