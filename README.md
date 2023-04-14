@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ****Full Stack Web Development****
 
-- 👨‍💻 All of my projects are available at [shiroichirag.github.io](https://shiroichirag.github.io/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Java**
 
